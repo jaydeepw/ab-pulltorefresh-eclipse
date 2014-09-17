@@ -13,7 +13,10 @@
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
--->
-<resources>
+  -->
 
+<resources>
+    <string name="pull_to_refresh_pull_label">下拉重新整理…</string>
+    <string name="pull_to_refresh_release_label">放開重新整理…</string>
+    <string name="pull_to_refresh_refreshing_label">正在載入…</string>
 </resources>
